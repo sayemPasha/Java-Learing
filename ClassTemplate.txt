@@ -1,0 +1,7 @@
+public static void(String args[])
+{
+	/**Fast copy paste:
+	
+	System.out.println(
+	
+}
